@@ -1,0 +1,11 @@
+# This repo is documentation only; not a development repo.
+*.zip
+*.wasm
+*.js
+*.cjs
+*.py
+extension/
+node_modules/
+.git-history/
+.env*
+*diagnostic*.json
